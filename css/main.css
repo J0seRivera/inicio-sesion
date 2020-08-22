@@ -97,6 +97,19 @@ body {
     text-decoration: underline;
   }
 
+  .login__container--inicio a {
+    color: white;
+    text-decoration: none;
+  }
+
+  .login__container--inicio {
+    margin: 0 auto;
+  }
+
+  .login__container--inicio a:hover {
+    text-decoration: underline;
+  }
+
   .input {
     background-color: transparent;
     border-left: 0;
